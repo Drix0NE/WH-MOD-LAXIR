@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  Bochilgaming And KANNACHAN 🔭
-// Ditulis Ulang Oleh WH MODS DEV
+// Ditulis Ulang Oleh Laxir Mods
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
